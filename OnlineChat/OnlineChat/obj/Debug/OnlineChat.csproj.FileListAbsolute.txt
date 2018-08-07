@@ -1,0 +1,98 @@
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojAssemblyReference.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CopyComplete
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+C:\Users\asus\Desktop\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.Cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojAssemblyReference.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CopyComplete
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\OnlineChat(2)\OnlineChat(3)\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojAssemblyReference.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CopyComplete
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\OnlineChat 2.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Login.resources
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojAssemblyReference.cache
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Login.resources
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CopyComplete
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojResolveAssemblyReference.cache
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Login.resources
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CopyComplete
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+F:\大二下\多媒体信息技术\pj\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Login.resources
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+C:\Users\asus\Desktop\p2p通讯(1)\p2p通讯\p2p通讯\OnlineChat 3.0\OnlineChat 3.0\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.Cache
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojAssemblyReference.cache
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Form1.resources
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Login.resources
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CopyComplete
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+E:\复旦\课程\多媒体技术\PJ\p2p通讯\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
