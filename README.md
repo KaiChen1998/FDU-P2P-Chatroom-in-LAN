@@ -9,7 +9,8 @@ It's a simple P2P chatroom in LAN supporting text, audio and video communication
 
 **Happy Chatting :) !**
 
-**A brief view of program UI**<br>
+**A brief view of program UI:**<br>
+
 ![Alt text](https://github.com/KaiChen1998/P2P-Chatroom-in-LAN/blob/master/UI_view.jpg)
 
 
